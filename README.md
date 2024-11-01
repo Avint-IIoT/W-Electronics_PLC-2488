@@ -1,5 +1,5 @@
 # W-Electronics_PLC32-2488
-How to connect PLC32-2488 from W-Electronics to Avint IIoT Cloud
+How to connect PLC32-2488 from W-Electronics to Avint IIoT Cloud.
 PLC32-2488 is an ESP32 based PLC with:
   * 4 analog inputs (0-10 VDC)
   * 8 digital inputs (0 / 24VDC)
